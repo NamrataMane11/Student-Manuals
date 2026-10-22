@@ -19,6 +19,6 @@ As your first step, your team must update the `README.md` file in your **own tea
 | [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., CSE] | [@username] |
 | [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., AIML] | [@username] |
 | [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., MEC] | [@username] |
-| [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., ELEC] | [@username] |
+| Namrata Munjaji Mane| BT26EE0089 | manenm26.elec@coeptech.ac.in | 7843095795 | ELEC | NamrataMane11 |
 
 *(Note: Use short forms for your branch. For example: CSE, AIML, MEC, ELEC, INSTRU)*
